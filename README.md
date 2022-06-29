@@ -14,15 +14,12 @@
 
 ### **Socials:**
 
-[![Twitter](./img/twitter-dark.svg)](https://twitter.com/Elmin_H772)
+[![Twitter](./img/twitter-light.svg)](https://twitter.com/Elmin_H772)
 &nbsp;&nbsp;
-[![Linkdin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/husicelmin/)
+[![Linkdin](./img/linkedin-light.svg)](https://www.linkedin.com/in/husicelmin/)
 &nbsp;&nbsp;
-[![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/elmin_h7/)
+[![Instagram](./img/instagram-light.svg)](https://www.instagram.com/elmin_h7/)
 &nbsp;&nbsp;
-
-
-
 
 
 <br />
