@@ -1,6 +1,6 @@
 
-# <h1 align="center">Hey Guys 👋, I'm Elmin Husic</h1> 
-## <h1 align="center">**I'm a 15 year old student living in the beautiful city of vienna!**  🇦🇹</h1> 
+# <h1 align="center"> **Hey Guys 👋, I'm Elmin Husic** </h1> 
+### <h1 align="center">**I'm a 15 year old student living in the beautiful city of vienna!** 🇦🇹</h1> 
 
 #### - 🪪 **I am currnetly working on my Portfolio Website**
 #### - 🔫 **I’m currently trying to improve my Design and programming skills**
