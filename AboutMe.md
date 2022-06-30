@@ -1,6 +1,6 @@
 
 # <h1 align="center">Hey Guys 👋, I'm Elmin Husic</h1> 
-## I'm a 15 year old student living in the beautiful city of vienna!
+<h1 align="center">I'm a 15 year old student living in the beautiful city of vienna! 🇦🇹</h1> 
 
 #### - 🪪 **I am currnetly working on my Portfolio Website**
 #### - 🔫 **I’m currently trying to improve my Design and programming skills**
@@ -83,3 +83,5 @@
 ## <h1 align="center">**Keyboard: ⌨️** Royal Kludge 61 (WHITE)</h1> 
 ## <h1 align="center">**Mouse: 🖱** Logitech G pro Wirless</h1> 
 ## <h1 align="center">**Audio: 🔊** Airpods Gen2, Hyperx Cloud 2</h1> 
+
+>>>>>>> beced21dd5276366256c0fc9b325b34c336ccce4
