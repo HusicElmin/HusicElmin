@@ -22,7 +22,6 @@
 &nbsp;&nbsp;
 
 
-<br />
 
 
 ### **Languages and Software Tools:**
@@ -43,7 +42,7 @@
 <img align="left" alt="Git" width="26px" src="git-icon.svg" style="padding-right:10px;" >
 <img align="left" alt="SubstancePainter" width="26px" src="substance-painter.svg" style="padding-right:10px;" >
 <img align="left" alt="Max" width="26px" src="maya-2017.svg" style="padding-right:10px;" >
-<img align="left" alt="Discord" width="26px" src="discord-6.svg" style="padding-right:10px;" >
+<img align="left" alt="Discord" width="26px" src="discord-6.svg" style="padding-right:10px" href="https://discord.com" ; >
 
 <br>
 <br>
