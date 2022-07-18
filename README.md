@@ -18,7 +18,7 @@
 &nbsp;&nbsp;
 [![Linkdin](./images/socons/linkedin-dark.svg)](https://www.linkedin.com/in/husicelmin/)
 &nbsp;&nbsp;
-[![Instagram](./images(socons/instagram-dark.svg)](https://www.instagram.com/elmin_h7/)
+[![Instagram](./images/socons/instagram-dark.svg)](https://www.instagram.com/elmin_h7/)
 &nbsp;&nbsp;
 
 
