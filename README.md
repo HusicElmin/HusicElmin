@@ -1,6 +1,6 @@
 
 # <h1 align="center">Hey Guys 👋, I'm Elmin Husic</h1> 
-## I'm a 15 year old student living in the beautiful city of vienna!
+## ***I'm a 15 year old student living in the beautiful city of vienna!***
 
 #### - 🪪 **I am currnetly working on my Portfolio Website**
 #### - 🔫 **I’m currently trying to improve my Design and programming skills**
@@ -14,11 +14,11 @@
 
 ### **Socials:**
 
-[![Twitter](./img/twitter-light.svg)](https://twitter.com/Elmin_H772)
+[![Twitter](./images/socons//twitter-dark.svg)](https://twitter.com/Elmin_H772)
 &nbsp;&nbsp;
-[![Linkdin](./img/linkedin-light.svg)](https://www.linkedin.com/in/husicelmin/)
+[![Linkdin](./images/socons/linkedin-dark.svg)](https://www.linkedin.com/in/husicelmin/)
 &nbsp;&nbsp;
-[![Instagram](./img/instagram-light.svg)](https://www.instagram.com/elmin_h7/)
+[![Instagram](./images(socons/instagram-dark.svg)](https://www.instagram.com/elmin_h7/)
 &nbsp;&nbsp;
 
 
@@ -31,18 +31,17 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="python-5.svg" style="padding-right:10px;" />
-<img align="left" alt="Word" width="26px" src="word-1.svg" style="padding-right:10px;" />
-<img align="left" alt="Excel" width="26px" src="excel-4.svg" style="padding-right:10px;" />
-<img align="left" alt="Teams" width="26px" src="microsoft-teams-1.svg" style="padding-right:10px;" />
-<img align="left" alt="Photoshop" width="26px" src="adobe-photoshop-2.svg" style="padding-right:10px;" />
-<img align="left" alt="XD" width="26px" src="adobe-xd-2.svg" style="padding-right:10px;" >
-<img align="left" alt="Premiere" width="26px" src="premiere-cc.svg" style="padding-right:10px;" >
-<img align="left" alt="Spotify" width="26px" src="spotify-2.svg" style="padding-right:10px;" >
-<img align="left" alt="Git" width="26px" src="git-icon.svg" style="padding-right:10px;" >
-<img align="left" alt="SubstancePainter" width="26px" src="substance-painter.svg" style="padding-right:10px;" >
-<img align="left" alt="Max" width="26px" src="maya-2017.svg" style="padding-right:10px;" >
-<img align="left" alt="Discord" width="26px" src="discord-6.svg" style="padding-right:10px"; >
+<img align="left" alt="Python" width="26px" src="./images/tocons/python-5.svg" style="padding-right:10px;" />
+<img align="left" alt="Word" width="26px" src="./images/tocons/word-1.svg" style="padding-right:10px;" />
+<img align="left" alt="Excel" width="26px" src="./images/tocons/excel-4.svg" style="padding-right:10px;" />
+<img align="left" alt="Teams" width="26px" src="./images/tocons/microsoft-teams-1.svg" style="padding-right:10px;" />
+<img align="left" alt="Photoshop" width="26px" src="./images/tocons/adobe-photoshop-2.svg" style="padding-right:10px;" />
+<img align="left" alt="XD" width="26px" src="./images/tocons/adobe-xd-2.svg" style="padding-right:10px;" >
+<img align="left" alt="Premiere" width="26px" src="./images/tocons/premiere-cc.svg" style="padding-right:10px;" >
+<img align="left" alt="Spotify" width="26px" src="./images/tocons/spotify-2.svg" style="padding-right:10px;" >
+<img align="left" alt="Git" width="26px" src="./images/tocons/git-icon.svg" style="padding-right:10px;" >
+<img align="left" alt="SubstancePainter" width="26px" src="./images/tocons/substance-painter.svg" style="padding-right:10px;" >
+<img align="left" alt="Discord" width="26px" src="./images/tocons/discord-6.svg" style="padding-right:10px"; >
 
 <br>
 <br>
