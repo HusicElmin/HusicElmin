@@ -1,6 +1,6 @@
 
 # <h1 align="center">Hey Guys 👋, I'm Elmin Husic</h1> 
-## ***I'm a 15 year old student living in the beautiful city of vienna!***
+## <h1 align="center"> ***I'm a 15 year old student living in the beautiful city of vienna!***</h1>
 
 #### - 🪪 **I am currnetly working on my Portfolio Website**
 #### - 🔫 **I’m currently trying to improve my Design and programming skills**
@@ -71,10 +71,6 @@
 
 <br>
 
-## <h1 align="center"> **List of hardware equipment: 🗒** </h1> 
+## <h1 align="center"> **List of my gear: 🗒** </h1> 
 
-## <h1 align="center">**Laptop: 💻** Macbook M1 Air 2020</h1> 
-## <h1 align="center">**Monitors: 🖥** AOC CQ27G2U 27 and PEAQ SLIM S270</h1> 
-## <h1 align="center">**Keyboard: ⌨️** Royal Kludge 61 (WHITE)</h1> 
-## <h1 align="center">**Mouse: 🖱** Logitech G pro Wirless</h1> 
-## <h1 align="center">**Audio: 🔊** Airpods Gen2, Hyperx Cloud 2</h1> 
+## <h1 align="center">**Link: https://amzn.to/3QnIJyh**</h1> 
