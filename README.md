@@ -108,8 +108,4 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusicElmin&theme=noctis_minimus&layout=compact" />
 </a>
 
-
-
-
-# <h1 align="center">List of the hardware I use: 🗒 https://amzn.to/3QnIJyh </h1> 
-
+# <h2 align="center">List of the hardware I use: 🗒 https://amzn.to/3QnIJyh </h2> 
