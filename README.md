@@ -8,19 +8,19 @@
 
 
 <p align="center">
-<a href="https://husicelmin.github.io/">
+<a href="https://husicelmin.github.io/" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
-<a href="https://www.linkedin.com/in/husicelmin/">
+<a href="https://www.linkedin.com/in/husicelmin/" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="https://dev.to/husicelmin">
+<a href="https://dev.to/husicelmin" target="_blank" >
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a>
-<a href="https://twitter.com/Elmin_H772">
+<a href="https://twitter.com/Elmin_H772" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
-<a href="https://www.instagram.com/elmin_h7/">
+<a href="https://www.instagram.com/elmin_h7/" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
@@ -31,7 +31,10 @@
   <img src= "https://giffiles.alphacoders.com/190/190634.gif">
 </p>
 
-```json
+---
+ <h1 align="center"> ╰(*°▽°*)╯About me... </h1>
+
+```yaml
 {
     name: Elmin Husic,
     located_in: Austria, Vienna,
@@ -76,7 +79,7 @@
 <img src="./images/tocons/discord-6.svg" alt="Discord" width="45" height="45"/>      
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 
-
+---
 
 <br>
 
@@ -96,6 +99,8 @@
 
 <dd>Answer: ....No of course not, well all make alot of mistakes, I made alot of them last and this year (2021-2022), I regret alot of those mistakes I made, especially in school but hey we come back strong and I will definatly learn from these mistakes..
 </dd>
+
+---
 
 <h1 align="center"> 📈 &nbsp;My GitHub History!</h1>
 <a href="https://github.com/HusicElmin">
