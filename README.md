@@ -2,9 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?text=Hello Everyone!👽&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<br>
 
-<h3 align="center">Hey!, my name is Elmin and I'm a 15 year old student living in the beautiful city of vienna! </h1>
+<h2 align="center">Hey!, my name is Elmin and I'm a 15 year old student living in the beautiful city of vienna! </h2>
 
 <br>
 
@@ -110,10 +109,10 @@
 <dd>Answer: ....No of course not, well all make alot of mistakes, I made alot of them last and this year (2021-2022), I regret alot of those mistakes I made, especially in school but hey we come back strong and I will definatly learn from these mistakes..
 </dd>
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
+<h1 align="center"> 📈 &nbsp;My GitHub History!</h1>
 <a href="https://github.com/HusicElmin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HusicElmin&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusicElmin&theme=noctis_minimus&layout=compact" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HusicElmin&theme=noctis_minimus&show_icons=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusicElmin&theme=noctis_minimus&layout=compact" />
 </a>
 
 
