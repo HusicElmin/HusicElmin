@@ -5,7 +5,7 @@
 
 <h2 align="center">Hey!, my name is Elmin and I'm a 15 year old student living in the beautiful city of vienna! </h2>
 
-<br>
+
 
 <p align="center">
 <a href="https://husicelmin.github.io/">
@@ -25,7 +25,7 @@
 </a>
 </p>
 
-<br>
+
 
 <p align="center">
   <img src= "https://giffiles.alphacoders.com/190/190634.gif">
@@ -49,25 +49,13 @@
         "Game Development"
 
     ],
-    currently_learning: [
-        "JavaScript",
-        "Discord.js",
-        "HTML",
-        "Css",
-        "Polishing Python"
-    ],
-
+    currently_learning: ["JavaScript","Discord.js","HTML","Css","Polishing Python"],
     2022-Goals: [
         "Make atleast 3 Discord Bots",
         "Finish my Portfolio Site",
         "Create some more Game-Ready assets"
     ],
-    hobbies: [
-        "Gaming",
-        "Swimming",
-        "Wrestling",
-        "3D Art"
-    ]
+    hobbies: ["Gaming","Swimming","Wrestling","3D Art"]
 }
 ```
 
